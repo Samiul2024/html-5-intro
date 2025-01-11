@@ -1,0 +1,21 @@
+nav{
+    text-align: center;
+}
+nav ul li{
+    display: inline;
+    text-decoration: none;
+}
+nav ul li a {
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
+footer p small a{
+    text-decoration: none;
+}
+article{
+    display: inline-block;
+    padding: 50px;
+}
